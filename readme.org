@@ -1,0 +1,7 @@
+* Readme
+To setup:
+#+begin_example
+git clone git@gitlab.com:janmasrovira/btop-config.git ~/dotfiles/btop
+cd ~/dotfiles
+stow btop
+#+end_example
